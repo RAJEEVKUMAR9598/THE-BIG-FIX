@@ -1,0 +1,18 @@
+html{
+    background: linear-gradient(to bottom, #f1e4f3 0%, #0f0e0e 100%);
+    font-size: 5mm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+image-resolution: inherit;
+    padding: 40px;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+        
+p a img{
+    display:ruby-base;
+    border-radius: 50%;
+    
+     
+  }
